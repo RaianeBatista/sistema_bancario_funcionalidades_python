@@ -56,3 +56,16 @@ O programa deve exibir todas as contas criadas, mostrando informações como: n�
 ### Dica
 
 Para vincular um usuário a uma conta, filtre a lista de usuários buscando o número do CPF informado para cada usuário da lista.
+
+## Conclusão
+
+Este desafio foi uma excelente oportunidade para aprimorar minhas habilidades em Python, especialmente na modularização de código e na manipulação de estruturas de dados como listas e dicionários. Aprendi a criar funções específicas para cada operação do sistema bancário, garantindo um código mais organizado, reutilizável e de fácil manutenção. Além disso, a implementação das novas funcionalidades, como cadastro de usuários e contas, me permitiu explorar conceitos importantes como validação de dados e relacionamento entre entidades.
+
+Agradeço à [DIO](https://www.dio.me/) e à [SUZANO](https://www.suzano.com.br) por proporcionarem essa experiência enriquecedora no Bootcamp. Estou animada para continuar aprendendo e aplicando esses conhecimentos em projetos futuros!
+
+---
+
+**Autor**: Raiane Batista  
+**Data**: 11-02-2025  
+**Bootcamp**: Python Developer - Suzano  
+**Plataforma**: [DIO](https://www.dio.me/)
