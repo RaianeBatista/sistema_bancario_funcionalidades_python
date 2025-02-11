@@ -1,6 +1,6 @@
 # Desafio Versão_2
 ## Otimizando o Sistema Bancário com Funções Python
-## Este desafio faz parte da atividade do **Bootcamp - Suzano - Python Developer** que estou realizando na plataforma da [DIO (Digital Innovation One)](https://www.dio.me/), em parceria com a empresa [SUZANO](https://www.suzano.com.br).
+#### Este desafio faz parte da atividade do **Bootcamp - Suzano - Python Developer** que estou realizando na plataforma da [DIO (Digital Innovation One)](https://www.dio.me/), em parceria com a empresa [SUZANO](https://www.suzano.com.br).
 
 ### Objetivo Geral
 
